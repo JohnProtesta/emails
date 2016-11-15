@@ -1,1 +1,12 @@
 # emails
+
+This is a crowd source project that I would like to see happen over the next 4 years.   One possible cause of the 2016 Presidential Election Disaster was the barage of criticism surrounding one of the candidates emails.  This candidate developed a reputation of being buried in scandal. Not only was there the actual private server issue, but the questions about the deleted emails (we can forgive most Americans for not understanding how discovery works, but they were intentionally misled) and then the Wikileaks emails, which exposed the candidate to even more criticism. 
+
+I don't personally approve of this sort of politics, and would like to never see it again, but nonetheless, it seems like we just might have elected the most dangerous and anti-democratic candidate imaginable. I shouldn't need to detail why this man is dangerous.  So what I am proposing is a widespread citizens investigative journalism effort targeting anyone and everyone who has enabled this to happen.    
+
+Any Republican in congress who doesn't stand up to Trump, any of his staff, any of his surrogates at Breitbarg or Fox News, any megachurch pastor who promoted him, or anyone else who continues to normalize or encourage his behavior, should be subject to the same sort of "journalism" that they subjected Hillary to.  There's two parts to this.  One is a ton of FOIA requests, visits to courthouses, internet sleuthing, etc.  The other is guerrilla journalism that spills out of the echo chambers and becomes toxic.  If a pastor of a megachurch who praised Trump has a history of questionable liasons with young children, this should be a local news story.  If a Breitbart instigator has a history of domestic abuse, this should be mentioned every time he opens his mouth on the internet.   If a congressman doesn't respond to FOIA requests, we should be asking WHAT IS HE HIDING??  If a Senator has a charity, anything funny in the books should be thrown on the state AG's desk and the local newspapers desk, dozens of times. 
+
+My plan is to curate lists of people who should be investigated.   Anything can be forked, merged or spread.  This repository will also house pdfs of legal and other documents.  These should be available for anyone to disseminate wherever and however might be convenient.   
+
+Like I said, I don't want this to become standard politics.  However, it would be appropriate to see the nation collectively vomiting by 2018.
+
